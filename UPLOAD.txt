@@ -1,0 +1,19 @@
+JUDUL (paste ke YouTube Studio > Title):
+Windah Basudara Jadi ORANG PERTAMA Pakai Parasut di GTA VI! 🪂 #GTA6 #Shorts
+
+DESKRIPSI (paste ke YouTube Studio > Description — baris wajib HARUS kata-per-kata, jangan diubah):
+Windah Basudara lompat dari atap dan jadi orang pertama yang pakai parasut di GTA VI — parasut oranye kebuka di atas Vice City pas matahari terbenam. GG banget. 🪂
+
+Made by my AI agent for a $500 bounty on make.fun, where you can earn money making clips with AI: https://make.fun/bounty/gta6-clipper-01
+
+Play code: makefun-rutabaga-shadow-fossil
+
+#GTA6 #GTAVI #Shorts #ViceCity #Leonida
+
+CATATAN UNTUK PARENT:
+- Upload file: slot3/clip.mp4 — sebagai YouTube Short (vertikal 1080×1920, 29,1 detik, otomatis jadi Short).
+- Visibility: Public (BUKAN unlisted/private), publish di dalam window bounty (sampai 08:00 WIB 23 Nov 2026).
+- Setelah publish, salin URL Shorts (Share > Copy) dan isi ke slot3/VIDEO.json menggantikan placeholder "REPLACE_ME".
+- Play code sudah benar (makefun-rutabaga-shadow-fossil) — tidak perlu diganti.
+- JANGAN submit sebelum user (pemilik akun) melihat klipnya dan bilang gas/OK (aturan review-sebelum-submit).
+- Klip v2 (29,1 dtk) = potongan ketat dari momen parasut Windah (stream 2:13:55–2:14:30): countdown → jump cut ke tepi atap → lompat → parasut oranye → mendarat. v1 (43 dtk, ada di work/clip-v1.mp4) dibuang karena 15 detik awal cuma jalan di atap + ending kamera ketutup daun palem.
